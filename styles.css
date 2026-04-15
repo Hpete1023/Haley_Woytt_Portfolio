@@ -1,0 +1,14 @@
+/* CSS by Haley Woytt */
+/* Color Palette
+blue - #41A8BF
+lightblue - #BOD1D9
+beige - #F2B077
+darkbrown - #734226
+lightbrown - #A66946
+*/
+
+/* GLOBAL (base) MOBILE FIRST */
+
+body {
+    background-color: lightblue;
+}
